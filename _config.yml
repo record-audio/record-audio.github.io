@@ -13,7 +13,7 @@ zip_code:
 country:
 phone:
 
-google_script_url: https://script.google.com/macros/s/AKfycbwuj9l23YEssEEqcjfVfGroH93HaKbtripT_ssV/exec
+google_script_url: https://script.google.com/macros/s/AKfycbwiQPwJmp8Y9vhTjsKlEueXdCXGSUciZYujLERXOvx9RmdB8JKr4Hb2zEfxQMsWbPKa/exec
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
